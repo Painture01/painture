@@ -1,0 +1,55 @@
+p{
+	color: pink;
+	font-family: arial black;
+	font-size: 25px;
+	background-color: white;
+	border-radius: 20px;
+}
+body{
+	background-color: #ff339c;
+}
+h2{
+	color: white;
+	font-family: monospace;
+	font-size: 25;
+}
+h3{
+	color: white;
+	font-family: monospace;
+	font-size: 15;
+}
+body{
+	text-align: center;
+}
+h1{
+	font-size: 44px;
+	font-family: monospace;
+	background-color: pink;
+	color: white;
+	border-radius: 10px;
+}
+h5{
+	font-size: 44px;
+	font-family: monospace;
+	background-color: white;
+	color: white;
+	border-radius: 10px;
+	text-align: center;
+}
+img{
+	border-radius: 25px;
+	margin: 20px;
+}
+
+img {
+  padding: 10px;
+  background-color: white;
+  transition: transform .2s;
+}
+
+img:hover {
+  transform: scale(1.1);
+}
+</style>
+
+<div class="zoom"></div>
