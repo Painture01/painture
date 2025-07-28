@@ -1,4 +1,6 @@
 console.log("hey :0");
+
+
 alert("welcome <3");
 let name = "Painture";
 console.log(name, " was here :)");

@@ -53,3 +53,8 @@ img:hover {
 </style>
 
 <div class="zoom"></div>
+@media (prefers-color-scheme: dark) {
+html {
+filter: invert(100%);
+}
+}
